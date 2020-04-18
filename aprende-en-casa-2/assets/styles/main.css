@@ -4012,8 +4012,8 @@ fieldset[disabled] .btn-default:hover {
 
 .btn-primary {
     color: #FFF;
-    background-color: #9D2449;
-    border-color: #9D2449
+    background-color: rgba(179, 51, 127, 1.0) !important;
+    border-color: rgba(179, 51, 127, 1.0) !important;
 }
 
 .btn-primary.focus,
