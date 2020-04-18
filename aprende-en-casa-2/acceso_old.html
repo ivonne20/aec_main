@@ -1,0 +1,412 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <!-- Para que funcione el js como un include en html -->
+<script src="https://www.aprendeencasa.mx/gbmx/function/includehtml.js"></script>
+<!--script src="https://www2.aefcm.gob.mx/gbmx/function/includehtml.js"></script-->
+<!--Antes de la etiqueta head de cada html -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maxinum-scale=1.0, minimum-scale=1.0">
+<meta name="description" content="La SEP a través de la Autoridad Educativa en la Ciudad de México tiene algunos materiales educativos que te servirán como apoyo durante estos días y junto con tu familia y maestr@s te invitamos a revisar la plataforma Aprende en Casa">
+<meta name="keywords" content="AEFCM, Aprende en Casa, Aprende, Casa, Tareas, Aprende en Linea, Ejercicios de repaso, Televisión Educativa, Actividades Lúdicas, Videos, Retos, Lecturas, Reforzamiento del conocimientos, Videojuegos">
+<title>Aprende en Casa</title>
+<link href='https://framework-gb.cdn.gob.mx/favicon.ico' rel='shortcut icon'><meta name="title" content="Aprende en Casa"/>
+<meta name="keywords" content="Aprende en Casa"/>
+   <!--link href="https://framework-gb.cdn.gob.mx/assets/styles/main.css" rel="stylesheet"-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162114925-1"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script>
+<script src="/aprende-en-casa/assets/scripts/vendor/jquery.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@2/src/js.cookie.min.js"></script>
+<script src="/aprende-en-casa/assets/scripts/plugins.js"></script>
+<script src="Scripts/swfobject_modified.js" type="text/javascript"></script>
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-162114925-1');
+</script>
+<style>
+		.bordetotal{
+		border-radius: 10px 10px 10px 10px;
+		moz-border-radius: 10px 10px 10px 10px;
+		webkit-border-radius: 10px 10px 10px 10px;
+		border: 10px solid #1E4F44;}
+</style>
+	<script type="text/javascript" src="/aprende-en-casa/assets/scripts/vendor/modernizr.js"></script>
+
+
+    <script type="text/javascript">  
+function elegir1()  
+ {
+	 document.getElementById('perfil').style.display = 'none';
+	 document.getElementById('niveleducativo').style.display = 'block';
+ document.getElementById('usuario').value = 'ALUMNOS';  
+  document.getElementById('tipousuario').value = '1';  
+	   
+//	 window.scrollTo(0, 600);
+	 
+	 }
+	 
+function elegir2()  
+ {
+	 	 document.getElementById('perfil').style.display = 'none';
+	 document.getElementById('niveleducativo').style.display = 'block';
+	 document.getElementById('usuario').value = 'PADRES';  
+	 document.getElementById('tipousuario').value = '2';  
+
+	 
+	 }	 
+function elegir3()  
+ {
+	 	 document.getElementById('perfil').style.display = 'none';
+	 document.getElementById('niveleducativo').style.display = 'block';
+	 document.getElementById('usuario').value = 'PROFESOR';  
+	 document.getElementById('tipousuario').value = '3';  
+	 
+	 }	 
+	 
+function elegir4()  
+ {
+	 	 document.getElementById('niveleducativo').style.display = 'none';
+	 document.getElementById('acceso').style.display = 'block';
+	 document.getElementById('nivel').value = 'INICIAL';  
+	 document.getElementById('tiponivel').value = '1';  
+	 document.getElementById('curp').focus();
+
+	 }	 
+function elegir5()  
+ { document.getElementById('niveleducativo').style.display = 'none';
+	 document.getElementById('acceso').style.display = 'block';
+	 document.getElementById('nivel').value = 'PREESCOLAR';  
+     document.getElementById('tiponivel').value = '2'; 
+document.getElementById('curp').focus();
+	 }	
+function elegir6()  
+ { document.getElementById('niveleducativo').style.display = 'none';
+	 document.getElementById('acceso').style.display = 'block';
+	 document.getElementById('nivel').value = 'PRIMARIA';  
+	 document.getElementById('tiponivel').value = '3'; 
+document.getElementById('curp').focus();
+	 }	
+function elegir7()  
+ { document.getElementById('niveleducativo').style.display = 'none';
+	 document.getElementById('acceso').style.display = 'block';
+	 document.getElementById('nivel').value = 'SECUNDARIA';  
+	 document.getElementById('tiponivel').value = '4'; 
+document.getElementById('curp').focus();
+	 }	
+function elegir8()  
+ { document.getElementById('niveleducativo').style.display = 'none';
+	 document.getElementById('acceso').style.display = 'block';
+	 document.getElementById('nivel').value = 'ESPECIAL';  
+	 document.getElementById('tiponivel').value = '5'; 
+document.getElementById('curp').focus();
+	 }	
+function elegir9()  
+ { document.getElementById('niveleducativo').style.display = 'none';
+	 document.getElementById('acceso').style.display = 'block';
+	 document.getElementById('nivel').value = 'SEBA';  
+	 document.getElementById('tiponivel').value = '6'; 
+document.getElementById('curp').focus();
+	 }		 	 	 	  	 	 
+	 
+    </script>
+    
+    <script type="text/javascript">  
+function validarCurp(elemento_curp)  
+ {
+	    var valor_curp = elemento_curp.value;
+		var curp_mayusculas = trim(valor_curp.toUpperCase());
+		elemento_curp.value = curp_mayusculas ;
+		//var curp_mayusculas = valor_curp.toUpperCase();
+		//document.registro_manual.SPP_CURP.value = curp_mayusculas;
+		//alert(curp_mayusculas)
+	 if (elemento_curp.value.length != 0)
+		 { 
+		// var elemento_foco ="";
+		 // alert("entra diferente a 0") 
+		//   var texto2 = ""; 
+		 // document.getElementById("contenido").innerHTML = texto2; // sintaxis de imprimir una variable de javascript
+		   
+		   //var curp = document.registro_manual.SPP_CURP.value;
+		    var curp = curp_mayusculas;								   
+			var curp_validado =  validarCURP(curp);
+			
+				if (curp_validado == "ok") 
+					{ 
+					   elemento_foco = null;
+					   	//alert("bien");
+		document.getElementById("classCURP").className="col-sm-9"; 	
+document.getElementById("curp").className="form-control";//document.getElementById("mensajeCURP").value="";
+     	document.getElementById("mensajeCURPt").textContent="";  
+		document.getElementById("mensajeCURP2").className=""; 
+		document.form1.enviar.disabled=false;	
+		//document.form1.curp.focus() 
+						return(true);
+					}
+			
+				if (curp_validado != "ok")  
+					{ 
+				//	document.form1.enviar.disabled=true;	
+						elemento_curp.focus();
+						elemento_foco = elemento_curp;
+						//alert("mal");
+						return(false);
+					}
+			
+		 }
+		
+	 if (elemento_curp.value.length == 0)
+			 {
+				//  var texto2 = "<p>No ha proporcionado el CURP.</p>"; 
+				 //document.getElementById("contenido").innerHTML = texto2;
+	   document.getElementById("curp").className="form-control form-control-error";
+	   document.getElementById("mensajeCURPt").value="Este campo es obligatorio";
+	   document.getElementById("mensajeCURP2").className="mensajeerror2";
+   	 //  document.form1.buscaaspirante.disabled=true; 
+				return(true);
+			 }
+   
+}
+</SCRIPT>    
+<script language="JavaScript" src="script/Trim.js"></script>
+<script language="JavaScript" type='text/javascript' src='./script/valCURP.js' /></script>
+    
+    
+    
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700&amp;subset=latin" media="all">	
+	<link href="/aprende-en-casa/assets/styles/main.css" rel="stylesheet" />
+	<link href="/aprende-en-casa/assets/styles/blackboard.css" rel="stylesheet" />
+</head>
+<body id="bodyfade" class="pace-done modal-open">
+
+<div class="modal fade">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title">Ejemplo de ventana modal</h4>
+      </div>
+      <div class="modal-body">
+        <p>Ejemplo de texto interno.</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cerrar</button>
+        <button type="button" class="btn btn-primary">Guardar</button>
+      </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+<!-- Es el submenú y estilos adicionales -->
+<!--div w3-include-html="https://www2.aefcm.gob.mx/gbmx/header/header_gbmxdiep.html"></div--> 
+<div w3-include-html="https://www.aprendeencasa.mx/gbmx/header/header_gbmxdiep.html"></div> 
+<div>&nbsp;</div>
+<div class="container bordetotal" style="border:15px solid #13322B">
+  <div class="row">
+    <ol class="breadcrumb">
+      <li><a href="https://www.gob.mx/aefcm"><i class="icon icon-home"></i></a></li>
+      <li><a href="https://www.aefcm.gob.mx/gbmx/">Inicio</a></li>
+      <li><a href="index.html">Aprende en Casa</a></li>
+      <li class="active"> Acceso </li>
+    </ol>   
+    <div class="col-sm-12" align="left"><img src="images/logov3.png" width="220" height="185" /></div>
+    <!--AREA DE PERFIL--------------------->
+       <div id = "perfil"  style="display: block;">
+        <div class="col-sm-12" align="center">
+          
+          <h2 style="color: #900">Bienvenid@ ¡Queremos conocerte!</h2>
+
+          <div class="col-sm-4"><button class="btn btn-warning" onclick="elegir1()"   role="button"><img  onclick="elegir1()" class="rounded-circle" src="images/ninospufs-11.png" alt="Generic placeholder image" width="140" height="214">
+           </button> <h2 style="color: #900">Alumnos</h2>
+            <!--p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+            <p><button class="btn btn-warning" onclick="elegir1()"  href="#" role="button">Elegir <span class="glyphicon glyphicon-chevron-right"> </span></button></p-->
+          </div><!-- /.col-lg-4 -->
+          <div class="col-sm-4">
+          <button class="btn btn-warning"  onclick="elegir2()"  role="button">  <img  onclick="elegir2()" src="images/student2.png" alt="Generic placeholder image" width="140" height="214" class="rounded-circle">
+           </button> <h2 style="color: #900">Padres</h2>
+            <!--p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+            <p><button class="btn btn-warning"  onclick="elegir2()"  role="button">Elegir <span class="glyphicon glyphicon-chevron-right"> </span></button></p-->
+          </div><!-- /.col-lg-4 -->
+          <div class="col-sm-4">
+            <button class="btn btn-warning"  onclick="elegir3()"  role="button"><img  onclick="elegir3()" src="images/student.png" alt="Generic placeholder image" width="140"  height="214" class="rounded-circle"></button>
+            <h2 style="color: #900">Profesores</h2>
+            <!--p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+            <p><button class="btn btn-warning" onclick="elegir3()" role="button">Elegir <span class="glyphicon glyphicon-chevron-right"> </span></button></p-->
+          </div><!-- /.col-lg-4 -->
+        </div>
+        
+        </div> <!------------------------fin perfil--->
+        
+        </br>  
+         <!------------------------inicio nivel--->
+        <div id = "niveleducativo" style="display: none;">
+        <div align="center"> <h2 style="color: #900">Elige el nivel educativo:</h2></div>
+        <div class="col-sm-12"><div class="col-sm-4"> <img onclick="elegir4()" src="images/icono-inicial.png" width="325" height="114" border="0" /></div>
+        <div class="col-sm-4"><img onclick="elegir5()" src="images/icono-preescolar.png" width="325" height="114" border="0" /></div>
+        <div class="col-sm-4"><img onclick="elegir6()" src="images/icono-primaria.png" width="325" height="114" border="0" /></div> 
+   <div class="col-sm-4"><img onclick="elegir7()" src="images/icono-secundaria.png" width="325" height="114" border="0" /></div>
+       <div class="col-sm-4"> <img onclick="elegir8()" src="images/icono-especial.png" width="325" height="114" border="0" /></div>
+       <div class="col-sm-4"><img onclick="elegir9()" src="images/icono-seba.png" width="325" height="114" border="0" /></div></div>
+        
+          </div> <!------------------------fin nivel--->
+      
+       
+ <div align="center"  class="col-sm-3"></div>
+        <div align="center"  class="col-sm-6">
+               
+     <div id = "acceso" style="display: none;">
+       </br>     <h3 style="color: #900">Para continuar escriba lo siguiente:</h3>
+        <form id="form1" name="form1" class="form-horizontal" role="form" action="acceso/usuario_accion.jsp" method="get" >
+  <div class="form-group">
+    <label class="col-sm-3 control-label" for="user">Usuario*:</label>
+    <div class="col-sm-9">
+      <input class="form-control" id="usuario"  name="usuario" placeholder="usuario" type="text" readonly="readonly" >
+        <input class="form-control" id="tipousuario"  name="tipousuario" placeholder="usuario" type="hidden" readonly="readonly" >  
+          
+    </div>  </div>
+    <div class="form-group">
+    <label class="col-sm-3 control-label" for="user">Nivel*:</label>
+    <div class="col-sm-9">
+         <input class="form-control" id="nivel" name="nivel" placeholder="nivel" type="text" readonly="readonly" >
+          <input class="form-control" id="tiponivel"  name="tiponivel" placeholder="nivel" type="hidden" readonly="readonly" >
+      
+  </div></div>
+  <!--div class="form-group">
+    <label class="col-sm-3 control-label" for="password-03">CURP :</label>
+    <div class="col-sm-9">
+      <input class="form-control" id="curp" placeholder="curp" type="password">
+    </div>
+  </div-->
+            <div class="form-group">                  
+<label class="col-sm-3 control-label">CURP<span id="mensajeCURP2"><strong>*</strong></span>:<strong data-toggle="tooltip" data-placement="left" title="" data-original-title="">
+<span role="button" class="glyphicon glyphicon-question-sign" title="¿Qué es la Clave Única de Registro de Población (CURP)?" data-toggle="modal" data-target="#infoModal13"></span></strong></label>
+
+
+
+<div id="classCURP" class="col-sm-9">
+      <input type="text" class="form-control  ns_site=gobmx" name="curp" id="curp" maxlength="18" placeholder="CURP del alumno" onBlur="validarCurp(this)" onKeyUp="validarCurp(this)" onChange="validarCurp(this)" required="required" value="">
+       <div  class="form-text form-text-error"> <small id="mensajeCURPt" ></small> </div>
+    </div> 
+      <!--input type="text" class="form-control  ns_site=gobmx" name="curp" id="curp" maxlength="18" placeholder="CURP" onBlur="validarCurp(this)" onKeyUp="validarCurp(this)" onChange="validarCurp(this)">
+     <input type="hidden" name="ns_site" id="ns_site" value="gobmx"--> 
+      </div>
+  <!---div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <div class="checkbox">
+        <label>
+          <input type="checkbox">
+          Recordarme
+        </label>
+      </div>
+    </div>
+  </div-->
+  <div class="form-group">
+    <div class="col-sm-offset-3 col-sm-9">
+      <button id="enviar" name="ACCION" class="btn btn-primary pull-right" type="submit" value="insert" disabled="disabled">Continuar  <span class="glyphicon glyphicon-chevron-right"> </span></button>
+    </div>
+  </div>
+</form>
+</div> <!------------------------fin usuarioform-->
+
+</div>
+         <div align="center"  class="col-sm-3"></div>
+        
+       <br />
+<br />
+
+        <div>&nbsp;</div>   
+    <div>
+    </div>
+ </div>
+<script src="https://framework-gb.cdn.gob.mx/assets/scripts/vendor/pace.min.js"></script>
+<script	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>
+w3IncludeHTML();
+/*swfobject.registerObject("FLVPlayer");*/
+</script>
+
+  <!-- Modal -->
+	<div id="infoModal" class="modal fade in" tabindex="-1" role="dialog" aria-labelledby="modalTitle" aria-hidden="true" style="display: block;">
+	    <div class="modal-dialog modal-lg" style="margin-top: 40.5px;">
+	        <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar" onClick="return CerrarVentana()">x</button>
+                    <h3 class="modal-title text-center" id="modalTitle">Bienvenido de Aprende en Casa..</h3>
+                </div>
+<div class="modal-body" align="justify">
+
+<p style="color: #9E2343 !important">Estimad@ usuario:</p>
+            <p>La Autoridad Educativa Federal en la Ciudad de México (AEFCM), te informa que los datos personales que se recaban serán utilizados con la finalidad del proyecto de "Aprende en casa".</p>
+<p>Los datos personales que se recaben a través de www.aprendeencasa.mx serán protegidos conforme a lo dispuesto por la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás normatividad que resulte aplicable.</p>
+<p> </p>
+<p>Si deseas conocer nuestro aviso de privacidad integral, lo podrás consultar en el portal.</p>
+<p>Nuestro aviso de privacidad integral:<br />
+
+<a target="_blank" href="https://www2.aefcm.gob.mx/contactanos/politicas_de_privacidad.html">https://www2.aefcm.gob.mx/contactanos/politicas_de_privacidad.html </a>
+          <p style="font-size: 18px"></p>
+         
+
+</div>
+
+<br>
+  <!--a href="https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp" target="_blank">Obtener la CURP en línea</a>
+<a class="ns_site=gobmx" target="_blank" href="https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp#clickout" onClick="uid_call('https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp', 'clickout')">Obtener la CURP en línea</a-->
+
+<div class="modal-footer">
+			       <button type="button" class="btn btn-default" data-dismiss="modal" onClick="return CerrarVentana()">Cerrar</button>
+ </div>             </div>
+	        </div>
+	        <!-- /.modal-content -->
+	    </div>
+	    <!-- /.modal-dialog -->
+	</div>
+	<!-- Modal -->
+<script> 
+function CerrarVentana()
+{ 
+document.getElementById("infoModal").className="modal fade"; 
+	document.getElementById('infoModal').style.display = 'none'; 
+	
+document.getElementById("bodyfade").className="pace-done"; 
+document.getElementById("cortinanegra").class=""; 
+	 document.getElementById('divcortinanegra').style.display = 'none'; 
+
+} 
+</script>  
+
+
+
+ <!-- Modal -->
+	<div id="infoModal13" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="modalTitle" aria-hidden="true">
+	    <div class="modal-dialog modal-lg">
+	        <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Cerrar"><span aria-hidden="true">&times;</span></button>
+                    <h3 class="modal-title text-center" id="modalTitle">Informaci&oacute;n sobre la CURP</h3>
+                </div>
+<div class="modal-body" align="center"><!--img src="../images/faq_clip_image003.gif"  alt="AEFCM" width="700" height="400"--><br>
+  <!--a href="https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp" target="_blank">Obtener la CURP en línea</a-->
+<a class="ns_site=gobmx" target="_blank" href="https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp#clickout" onClick="uid_call('https://consultas.curp.gob.mx/CurpSP/gobmx/inicio.jsp', 'clickout')">Obtener la CURP en línea</a>
+</div>
+<div class="modal-footer">
+			        <button type="button" class="btn btn-default ns_site=gobmx" data-dismiss="modal">Cerrar</button>
+                </div>
+	        </div>
+	        <!-- /.modal-content -->
+	    </div>
+	    <!-- /.modal-dialog -->
+	</div>
+	<!-- Modal -->
+
+ <div id="divcortinanegra" style="display: block;">
+<div id="cortinanegra" class="modal-backdrop fade in">
+</div>
+
+</div>
+</body>
+</html>

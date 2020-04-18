@@ -1,0 +1,45 @@
+.navbar.aec{
+  background-color: rgba(179, 51, 127, 1.0) !important;
+  color: white;
+  width: 100%;
+  padding-top: 5px;
+  padding-bottom: 10px;
+}
+
+.breadcrumb.aec{
+  padding:15px 20px;
+  margin-bottom: 15px;
+}
+
+.breadcrumb.aec a{
+  color: white;
+}
+.breadcrumb.aec a{
+  color: white;
+}
+
+.breadcrumb.aec>.active {
+ font-weight:bold;
+ color:white
+}
+
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
+
+.navbar-logo{
+  margin-right: 10px;
+  padding-top: 5px;
+  padding-right: 15px;
+  width: 100%;
+}
+
+h1,h3 {
+  color: #d53c88;
+}
+
+.nivel{
+ padding:0px 5em;
+}

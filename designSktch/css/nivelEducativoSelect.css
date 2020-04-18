@@ -1,0 +1,2077 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700,500');
+
+@font-face {
+                          font-family: "AntennaCond-Bold";
+                          src: url('../fonts/AntennaCond-Bold.otf') format("opentype");
+                        }
+                        
+.niveleducativoselect {
+  width               : 100%;
+  min-width           : 1440px;
+  height              : 100vh;
+  min-height          : 1479px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(255, 255, 255, 1.0);
+  opacity             : 1.0;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.niveleducativoselect .bg {
+  background-color    : rgba(247, 249, 252, 1.0);
+  top                 : 90px;
+  height              : 934px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 487px;
+  height              : 230px;
+  width               : 1112px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2 .inicial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 83px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 382px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy3 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy3 .inicial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 83px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 762px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy5 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy5 .inicial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 83px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy6 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy6 .inicial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 83px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 381px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy7 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy7 .inicial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 83px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 130px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 762px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy8 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 100px;
+  width               : 350px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group3 .card2copy8 .inicial {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 9px;
+  height              : 83px;
+  width               : 276px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 123px;
+  height              : 24px;
+  width               : 266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group .inicio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.niveleducativoselect .group .aprendeencasa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 108px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.niveleducativoselect .group .label1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.niveleducativoselect .logo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 111px;
+  height              : 48px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 970px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 26px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill358 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill360 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 20px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill362 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 14px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill364 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill366 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 14px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill368 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill370 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill372 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 129px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill374 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 14px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill376 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 19px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill378 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 191px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill380 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 207px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group384 .fill382 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 221px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group394 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group394 .group387 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group394 .group387 .group3871 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group394 .group390 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group394 .group390 .group3901 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group394 .group393 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group394 .group393 .group3931 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .stroke395 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 19px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group406 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group406 .group399 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group406 .group399 .group3991 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group406 .group402 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group406 .group402 .group4021 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group406 .group405 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group406 .group405 .group4051 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .stroke407 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 19px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill409 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill411 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 8px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill413 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 11px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill415 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 1px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill417 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill419 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill421 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 8px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill423 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 15px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill425 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill427 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill429 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 1px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group433 .fill431 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 26px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 25px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 .group436 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 .group436 .group4361 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 .group439 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 2px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 .group439 .group4391 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 .group442 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 .group442 .group4421 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 .group445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group446 .group445 .group4451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .fill447 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 26px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 25px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 .group451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 .group451 .group4511 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 .group454 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 2px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 .group454 .group4541 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 .group457 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 .group457 .group4571 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 .group460 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .logo .group461 .group460 .group4601 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 827px;
+  height              : 48px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 640px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group2 .atomobuttonprimario228x48px {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 160px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group2 .atomobuttonprimario228x48px .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 160px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group2 .atomobuttonprimario228x48px .group1 .rectangle {
+  background-color    : rgba(179, 51, 127, 1.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 160px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .group2 .atomobuttonprimario228x48px .group1 .placeholder {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 14px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 39px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 500;
+  font-style          : normal;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 20.0px;
+}
+.niveleducativoselect .bitmap {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1023px;
+  height              : 470px;
+  width               : 1441px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .eligetuniveleduca {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 319px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 513px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "AntennaCond-Bold", Helvetica, Arial, serif;
+  font-size           : 38.0px;
+  color               : rgba(178, 51, 127, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.79px;
+  line-height         : 46.0px;
+}
+.niveleducativoselect .header {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : 90px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 1440px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .rectangle {
+  background-color    : rgba(179, 51, 127, 1.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 33px;
+  height              : 24px;
+  width               : 266px;
+  position            : absolute;
+  margin              : 0;
+  left                : 164px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .group1 .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 24px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .group1 .inicio {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.niveleducativoselect .header .group31 .group1 .aprendeencasa {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 109px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 700;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.niveleducativoselect .header .group31 .group1 .label1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 93px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  font-family         : "Montserrat", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.niveleducativoselect .header .group31 .logo1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 48px;
+  width               : 305px;
+  position            : absolute;
+  margin              : 0;
+  left                : 970px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 19px;
+  height              : 26px;
+  width               : 235px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill358 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 18px;
+  width               : 21px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill360 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 20px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill362 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 14px;
+  width               : 9px;
+  position            : absolute;
+  margin              : 0;
+  left                : 41px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill364 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill366 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 14px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 69px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill368 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 20px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 87px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill370 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill372 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 129px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill374 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 14px;
+  width               : 15px;
+  position            : absolute;
+  margin              : 0;
+  left                : 147px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill376 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1px;
+  height              : 19px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 172px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill378 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 191px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill380 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 13px;
+  position            : absolute;
+  margin              : 0;
+  left                : 207px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group384 .fill382 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 15px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 221px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group394 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group394 .group387 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group394 .group387 .group3871 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group394 .group390 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group394 .group390 .group3901 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group394 .group393 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group394 .group393 .group3931 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .stroke395 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 19px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group406 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group406 .group399 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group406 .group399 .group3991 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group406 .group402 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group406 .group402 .group4021 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 18px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group406 .group405 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group406 .group405 .group4051 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 28px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 48px;
+  width               : 61px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .stroke407 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 19px;
+  width               : 27px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill409 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 19px;
+  width               : 60px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill411 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : 8px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill413 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 11px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 33px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill415 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 1px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 37px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill417 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 38px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill419 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 42px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill421 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 8px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill423 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 15px;
+  width               : 20px;
+  position            : absolute;
+  margin              : 0;
+  left                : 11px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill425 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill427 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 2px;
+  width               : 1px;
+  position            : absolute;
+  margin              : 0;
+  left                : 23px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill429 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 35px;
+  height              : 1px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group433 .fill431 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 26px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 25px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 .group436 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 .group436 .group4361 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 .group439 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 2px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 .group439 .group4391 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 .group442 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 .group442 .group4421 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 .group445 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group446 .group445 .group4451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .fill447 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 26px;
+  width               : 6px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 25px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 50px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 .group451 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 .group451 .group4511 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 .group454 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 23px;
+  height              : 2px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 .group454 .group4541 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 2px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 .group457 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 .group457 .group4571 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 .group460 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .header .group31 .logo1 .group461 .group460 .group4601 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 3px;
+  width               : 7px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .headerlogos {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .headerlogos .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 1440px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .headerlogos .group1 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 1440px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+.niveleducativoselect .headerlogos .group1 .bitmap1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 28px;
+  height              : 34px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 165px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-component-wrapper,
+.anima-component-wrapper * {
+  pointer-events      : none;
+}
+.anima-component-wrapper a *,
+.anima-component-wrapper a,
+.anima-component-wrapper input,
+.anima-component-wrapper video,
+.anima-component-wrapper iframe,
+.anima-listeners-active,
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-hidden,
+.anima-hidden * {
+  visibility          : hidden;
+  pointer-events      : none;
+}
+.anima-smart-layers-pointers,
+.anima-smart-layers-pointers * {
+  pointer-events      : auto;
+  visibility          : visible;
+}
+.anima-component-wrapper.anima-not-ready,
+.anima-component-wrapper.anima-not-ready * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click,
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
