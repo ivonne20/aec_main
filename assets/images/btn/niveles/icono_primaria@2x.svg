@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="276px" height="84px" viewBox="0 0 276 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>icono_primaria@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="42.3572414" cy="42.28" r="41.5558621"></circle>
+    </defs>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Nivel-educativo-" transform="translate(-963.000000, -412.000000)">
+            <g id="Group-3" transform="translate(164.000000, 404.000000)">
+                <g id="icono_nivel" transform="translate(762.000000, 0.000000)">
+                    <g id="inicial-copy-2" transform="translate(37.000000, 8.000000)">
+                        <g id="inicial" transform="translate(31.000000, 14.000000)">
+                            <g id="carta_alumnos-copy">
+                                <rect id="Rectangle" fill="#00B0ED" x="0" y="0" width="245" height="56" rx="28"></rect>
+                                <text id="Primaria" font-family="Montserrat-Medium, Montserrat" font-size="16" font-weight="400" fill="#FFFFFF">
+                                    <tspan x="110.176" y="34">Primaria</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="03">
+                            <g id="Bitmap">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#BC0F6A" fill-rule="nonzero" xlink:href="#path-1"></use>
+                                <image opacity="0.36" style="mix-blend-mode: screen;" mask="url(#mask-2)" x="0" y="-6.75862069" width="80.137931" height="100.413793" xlink:href="data:image/png;base64,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"></image>
+                            </g>
+                            <path d="M47.5669763,76 L33.4912281,76 C24.3833743,76 17,68.6804605 17,59.6513509 L17,13 L64,13 L64,59.6609678 C63.9947146,68.6638385 56.6483073,75.9682267 47.5669763,76 Z" id="Path" fill="#5690C7" fill-rule="nonzero"></path>
+                            <path d="M44.4768935,69 L35.5231065,69 C29.7151131,69 25.0053138,64.1722009 25,58.2132465 L25,52 L55,52 L55,58.2132465 C55,61.0757825 53.8910127,63.8209323 51.9172702,65.8441243 C49.9435277,67.8673164 47.2669091,69.0026168 44.4768935,69 L44.4768935,69 Z" id="Path" fill="#7CB5DB" fill-rule="nonzero"></path>
+                            <polygon id="Path" fill="#29282A" fill-rule="nonzero" points="27.4974958 13 23 13 24.5025042 10 29 10"></polygon>
+                            <path d="M17,13 L17,22.2119883 C17.0204049,28.2989684 19.5121874,34.1266752 23.9232749,38.4039376 C28.3343624,42.6811999 34.3005554,45.0548675 40.5,44.9990369 C46.6994446,45.0548675 52.6656376,42.6811999 57.0767251,38.4039376 C61.4878126,34.1266752 63.9795951,28.2989684 64,22.2119883 L64,13 L17,13 Z" id="Path" fill="#404041" fill-rule="nonzero"></path>
+                            <path d="M19,13 L19,21.0513644 C19,32.8683788 28.6200765,43 40.4951609,43 C52.3702453,43 62,32.8780096 62,21.0513644 L62,13 L19,13 Z" id="Path" fill="#7CB5DB" fill-rule="nonzero"></path>
+                            <rect id="Rectangle" fill="#FFFFFF" fill-rule="nonzero" x="36" y="32" width="8" height="4"></rect>
+                            <polygon id="Path" fill="#404041" fill-rule="nonzero" points="25 10 32.6074766 10 34 13 26.3925234 13"></polygon>
+                            <polygon id="Path" fill="#121112" fill-rule="nonzero" points="55.5025042 13 60 13 58.5075125 10 54 10"></polygon>
+                            <polygon id="Path" fill="#29282A" fill-rule="nonzero" points="58 10 50.4004149 10 49 13 56.5995851 13"></polygon>
+                            <rect id="Rectangle" fill="#404041" fill-rule="nonzero" x="25" y="52" width="31" height="3"></rect>
+                            <path d="M40,76 L50.8732453,76 C57.570667,76 63,70.5017341 63,63.7192795 L63,13 L40,13 L40,76 Z" id="Path" fill="#2F6AB2" fill-rule="nonzero"></path>
+                            <path d="M40,44.9990369 C46.0675415,45.0548675 51.9067942,42.6811999 56.2240288,38.4039376 C60.5412634,34.1266752 62.9800292,28.2989684 63,22.2119883 L63,13 L40,13 L40,44.9990369 Z" id="Path" fill="#29282A" fill-rule="nonzero"></path>
+                            <path d="M41,43 C52.6057606,43 62,32.8716303 62,21.0487805 L62,13 L41,13 L41,43 Z" id="Path" fill="#5690C7" fill-rule="nonzero"></path>
+                            <rect id="Rectangle" fill="#DBDBDB" fill-rule="nonzero" x="40" y="32" width="4" height="4"></rect>
+                            <path d="M40,69 L49.127086,69 C52.3706068,69 55,66.302262 55,62.9744335 L55,52 L40,52 L40,69 Z" id="Path" fill="#5690C7" fill-rule="nonzero"></path>
+                            <rect id="Rectangle" fill="#29282A" fill-rule="nonzero" x="40" y="52" width="16" height="3"></rect>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

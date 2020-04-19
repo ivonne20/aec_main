@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="311px" height="366px" viewBox="0 0 311 366" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>television@2x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="255" height="310" rx="8"></rect>
+        <filter x="-16.9%" y="-13.2%" width="133.7%" height="127.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="14" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.06 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M3.00025,7.99927241 C2.74425,7.99927241 2.48825,7.90127241 2.29325,7.70627241 C1.90225,7.31527241 1.90225,6.68327241 2.29325,6.29227241 L5.59825,2.98727241 L2.41825,-0.305727588 C2.03525,-0.703727588 2.04625,-1.33672759 2.44325,-1.71972759 C2.84125,-2.10272759 3.47425,-2.09172759 3.85725,-1.69572759 L7.71925,2.30427241 C8.09825,2.69727241 8.09325,3.32027241 7.70725,3.70627241 L3.70725,7.70627241 C3.51225,7.90127241 3.25625,7.99927241 3.00025,7.99927241" id="path-4"></path>
+    </defs>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Materias-" transform="translate(-707.000000, -399.000000)">
+            <g id="Ficha-de-repaso" transform="translate(735.000000, 425.000000)">
+                <g id="Group">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Mask">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <rect id="Rectangle" fill="#E4E9F2" fill-rule="nonzero" opacity="0.497465588" mask="url(#mask-2)" x="0" y="0" width="255" height="88"></rect>
+                    <g id="atomo/-button/-primario/-228x48px/-active-copy-2" mask="url(#mask-2)">
+                        <g transform="translate(27.000000, 232.000000)" id="Group">
+                            <g>
+                                <rect id="Rectangle" fill="#FFB233" x="0" y="0" width="200" height="48" rx="24"></rect>
+                                <g id="Group-2" transform="translate(30.225131, 14.000000)">
+                                    <g id="Group-3">
+                                        <text id="Ver-actividades" font-family="Montserrat-Medium, Montserrat" font-size="16" font-weight="400" line-spacing="20" fill="#FFFFFF">
+                                            <tspan x="0.410429319" y="15">Ver actividades</tspan>
+                                        </text>
+                                        <g id="Arrow_down" transform="translate(140.596859, 11.000000) rotate(-90.000000) translate(-140.596859, -11.000000) translate(135.596859, 8.000000)">
+                                            <mask id="mask-5" fill="white">
+                                                <use xlink:href="#path-4"></use>
+                                            </mask>
+                                            <use id="🎨-Icon-Сolor" fill="#FFFFFF" fill-rule="nonzero" transform="translate(5.000080, 2.999636) rotate(-270.000000) translate(-5.000080, -2.999636) " xlink:href="#path-4"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <text id="Fichas-de-repaso" font-family="Montserrat-Medium, Montserrat" font-size="20" font-weight="400" letter-spacing="0.416666667" fill="#333E53">
+                        <tspan x="75.8266667" y="196">Televisión</tspan>
+                    </text>
+                </g>
+                <g id="icono_01-" transform="translate(74.000000, 24.000000)">
+                    <g id="Recurso-9">
+                        <path d="M107.856,53.928 C107.856,83.711612 83.711612,107.856 53.928,107.856 C24.144388,107.856 0,83.711612 0,53.928 C0,24.144388 24.144388,0 53.928,0 C83.7097822,0.00441702376 107.851583,24.1462178 107.856,53.928" id="Path" fill="#FEA424" fill-rule="nonzero"></path>
+                        <path d="M76,64.672 L76,64.8 C71.6153567,65.3117301 68.1525096,68.7613476 67.624,73.144 L67.488,73.144 C66.9716145,68.7704002 63.5251025,65.3205806 59.152,64.8 L59.152,64.632 C63.5172578,64.1137131 66.9613274,60.676254 67.488,56.312 L67.624,56.312 C68.1456445,60.7008852 71.6101254,64.1587482 76,64.672 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <path d="M78.528,44.8 L78.528,44.888 C75.703202,45.2287139 73.4767139,47.455202 73.136,50.28 L73.048,50.28 C72.7129148,47.4569041 70.4870959,45.2310852 67.664,44.896 L67.664,44.8 C70.4871712,44.471237 72.7150393,42.2466792 73.048,39.424 L73.136,39.424 C73.4835392,42.2425673 75.7084123,44.4608385 78.528,44.8 L78.528,44.8 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero"></path>
+                        <path d="M14.928,91.2 C12.416,91.2 10.368,89.384 10.368,87.152 L10.368,31.032 C10.368,28.8 12.416,26.984 14.928,26.984 L92.928,26.984 C95.448,26.984 97.496,28.8 97.496,31.032 L97.496,87.144 C97.496,89.376 95.448,91.192 92.928,91.192 L14.928,91.2 Z" id="Path" stroke="#FFFFFF" stroke-width="0.8" fill="#000000" fill-rule="nonzero"></path>
+                        <rect id="Rectangle" fill="#716772" fill-rule="nonzero" x="20.432" y="35.56" width="67" height="47.064"></rect>
+                        <rect id="Rectangle" fill="#C4C9BF" fill-rule="nonzero" x="36.424" y="91.192" width="35.008" height="4.312"></rect>
+                        <rect id="Rectangle" stroke="#FFFFFF" stroke-width="0.8" fill="#000000" fill-rule="nonzero" x="27.96" y="95.48" width="51.936" height="3.2"></rect>
+                        <path d="M77.392,86.728 C77.4435502,87.5639363 78.1552707,88.2044848 78.992,88.168 L85.784,88.168 C86.6191744,88.2001704 87.3283224,87.5619372 87.384,86.728 L87.384,86.728 C87.3282941,85.8952459 86.6178107,85.2593633 85.784,85.296 L79.016,85.296 C78.1806372,85.2550004 77.4675412,85.8932213 77.416,86.728 L77.392,86.728 Z" id="Path" fill="#A8B1B0" fill-rule="nonzero"></path>
+                        <path d="M65.472,66.496 L62.056,66.496 L62.056,66.496 L59.576,66.496 C61.4088715,64.7447979 62.4317377,62.3107819 62.4,59.776 L62.4,57.504 C63.4737069,57.1861223 64.2103594,56.1997735 64.2103594,55.08 C64.2103594,53.9602265 63.4737069,52.9738777 62.4,52.656 L62.4,49.704 L62.864,49.704 C62.8719585,49.5948115 62.8719585,49.4851885 62.864,49.376 C62.7796855,46.6436379 60.5729488,44.4544707 57.84,44.392 L43.912,44.392 C43.9078713,45.7951066 44.4468355,47.1453841 45.416,48.16 L45.416,52.656 C44.3422931,52.9738777 43.6056406,53.9602265 43.6056406,55.08 C43.6056406,56.1997735 44.3422931,57.1861223 45.416,57.504 L45.416,59.776 C45.4035402,62.1310245 46.293905,64.4013116 47.904,66.12 L48.28,66.472 L45.792,66.472 L45.792,66.472 L42.4,66.472 L42.4,66.624 L42.4,66.624 L42.4,66.48 C40.4727044,66.4903784 38.6349574,67.2949353 37.32,68.704 C35.9454099,70.1548642 35.1856796,72.0814256 35.1998012,74.08 L35.1998012,74.08 L35.1998012,82.88 L72.6561942,82.88 L72.6561942,74.08 C72.6700955,72.091611 71.9164182,70.1744621 70.552,68.728 C69.2389926,67.3151881 67.4007026,66.5074985 65.472,66.496 L65.472,66.496 Z" id="Path" fill="#FFFFFF" fill-rule="nonzero" opacity="0.6"></path>
+                        <path d="M22.08,16.872 C22.08,20.4994062 19.1394062,23.44 15.512,23.44 C11.8845938,23.44 8.944,20.4994062 8.944,16.872 C8.944,13.2445938 11.8845938,10.304 15.512,10.304 C19.1394062,10.304 22.08,13.2445938 22.08,16.872 L22.08,16.872 Z" id="Path" fill="#FE7114" fill-rule="nonzero"></path>
+                        <circle id="Oval" fill="#FE7114" fill-rule="nonzero" cx="29.472" cy="15.328" r="3.64"></circle>
+                        <text id="5x3" fill="#FFFFFF" font-family="Montserrat-Regular, Montserrat" font-size="8.8" font-weight="normal">
+                            <tspan x="68.768" y="56.72">5x3</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
