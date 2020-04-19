@@ -7615,7 +7615,7 @@ button.close {
     border: 1px solid #fff;
     border-radius: 10px;
     cursor: pointer;
-    background-color: #000\9;
+    background-color: #000;
     background-color: transparent
 }
 
@@ -7926,7 +7926,6 @@ hr.red:before {
 [class*=" icon-"],
 [class^=icon-] {
     font-family: icogobmx;
-    speak: none;
     font-style: normal;
     font-weight: 400;
     font-variant: normal;
@@ -8515,7 +8514,7 @@ dt {
 .main-footer .list-info form label {
     font-weight: 300;
     margin-bottom: 15px;
-    line-height: 110% color: black;
+    line-height: 110% black;
 }
 
 .main-footer .list-info form .form-group-icon {
@@ -10602,9 +10601,10 @@ dt {
     }
     .wizard-steps li.completed i,
     .wizard-steps li.current i,
-    .wizard-steps li.success i {
-        mar }
- top: 6px
+    .wizard-steps li.success i{
+        top: 6px
+    } 
+      
     }
     .wizard-steps li.completed:after,
     .wizard-steps li.completed:before,
@@ -10693,7 +10693,6 @@ dt {
         bottom: 100%;
         left: 25px
     }
-}
 
 @media (min-width:992px) {
     .attention .step .row .col-md-4 {
