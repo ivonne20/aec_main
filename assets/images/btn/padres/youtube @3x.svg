@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="51px" height="33px" viewBox="0 0 51 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>youtube @3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="butterfly-copy" transform="translate(-119.000000, -17.000000)">
+            <g id="youtube-" transform="translate(119.000000, 17.000000)">
+                <path d="M7.65608141,0 L42.4194074,0 C46.6477899,0 50.0754888,3.42753573 50.0754888,7.65583653 L50.0754888,24.3772153 C50.0754888,28.6055161 46.6477899,32.0338681 42.4194074,32.0338681 L7.65608141,32.0338681 C3.42769898,32.0338681 0,28.6055161 0,24.3772153 L0,7.65583653 C0,3.42753573 3.42769898,0 7.65608141,0 Z" id="Path" fill="#D23689"></path>
+                <path d="M20.5959386,11.069692 L20.4801183,21.0853775 C20.472093,21.7767618 20.8735477,22.1244947 21.3766983,21.8616544 L30.8489881,16.9207461 C31.3521387,16.6587221 31.3606775,16.2081386 30.8679919,15.9150962 L21.5024699,10.3481056 C21.0098484,10.0550631 20.6039638,10.3783077 20.5959386,11.069692 Z" id="Path" fill="#FEFFFE"></path>
+            </g>
+        </g>
+    </g>
+</svg>

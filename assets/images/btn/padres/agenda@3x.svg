@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="277px" height="124px" viewBox="0 0 277 124" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Agenda@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M3.00025,7.99927241 C2.74425,7.99927241 2.48825,7.90127241 2.29325,7.70627241 C1.90225,7.31527241 1.90225,6.68327241 2.29325,6.29227241 L5.59825,2.98727241 L2.41825,-0.305727588 C2.03525,-0.703727588 2.04625,-1.33672759 2.44325,-1.71972759 C2.84125,-2.10272759 3.47425,-2.09172759 3.85725,-1.69572759 L7.71925,2.30427241 C8.09825,2.69727241 8.09325,3.32027241 7.70725,3.70627241 L3.70725,7.70627241 C3.51225,7.90127241 3.25625,7.99927241 3.00025,7.99927241" id="path-1"></path>
+    </defs>
+    <g id="Screens" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Sección-de-padres-(Alimentación)-" transform="translate(-585.000000, -824.000000)">
+            <g id="Group-16" transform="translate(259.000000, 825.000000)">
+                <g id="Agenda" transform="translate(326.000000, 0.000000)">
+                    <g id="Group-15-Copy" transform="translate(21.000000, 0.000000)">
+                        <rect id="Rectangle" stroke="#E4E9F2" fill="#FFFFFF" x="0" y="0" width="255" height="99" rx="4"></rect>
+                        <g id="Group-8" transform="translate(61.000000, 10.000000)" font-size="16">
+                            <g id="Group-9">
+                                <text id="Actividades-escolare" font-family="Montserrat-Medium, Montserrat" font-weight="400" line-spacing="26" fill="#222B45">
+                                    <tspan x="0.324" y="41">Actividades escolares</tspan>
+                                </text>
+                                <text id="Agenda" font-family="Montserrat-Bold, Montserrat" font-weight="bold" fill="#B3337F">
+                                    <tspan x="54.724" y="15">Agenda</tspan>
+                                </text>
+                            </g>
+                        </g>
+                        <g id="Group" transform="translate(51.000000, 75.000000)">
+                            <rect id="Rectangle-Copy" fill="#6E79E0" x="0" y="0" width="191" height="48" rx="24"></rect>
+                            <g id="Group-2" transform="translate(55.000000, 16.000000)">
+                                <g id="Group-3">
+                                    <g id="Group-10">
+                                        <text id="Revisar" font-family="Montserrat-Medium, Montserrat" font-size="18" font-weight="400" line-spacing="16" fill="#FFFFFF">
+                                            <tspan x="0" y="17">Revisar</tspan>
+                                        </text>
+                                        <g id="Arrow_down" transform="translate(92.500000, 8.000000) rotate(-90.000000) translate(-92.500000, -8.000000) translate(87.500000, 5.000000)">
+                                            <mask id="mask-2" fill="white">
+                                                <use xlink:href="#path-1"></use>
+                                            </mask>
+                                            <use id="🎨-Icon-Сolor" fill="#FFFFFF" fill-rule="nonzero" transform="translate(5.000080, 2.999636) rotate(-270.000000) translate(-5.000080, -2.999636) " xlink:href="#path-1"></use>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="calendar" transform="translate(0.000000, 22.000000)">
+                        <path d="M0,17.5104 L56.4224,17.5104 L56.4224,44.7488 C56.4224,49.0469008 52.9381008,52.5312 48.64,52.5312 L3.8912,52.5312 C1.74214958,52.5312 0,50.7890504 0,48.64 L0,17.5104 Z" id="Path" fill="#E4E9F2" fill-rule="nonzero"></path>
+                        <path d="M52.5312,5.8368 L3.8912,5.8368 C1.74214958,5.8368 0,7.57894958 0,9.728 L0,17.5104 L56.4224,17.5104 L56.4224,9.728 C56.4224,7.57894958 54.6802504,5.8368 52.5312,5.8368 Z" id="Path" fill="#6E79E0"></path>
+                        <path d="M43.776,11.6736 C45.3877878,11.6736 46.6944,10.3669878 46.6944,8.7552 L46.6944,2.9184 C46.6944,1.30661219 45.3877878,0 43.776,0 C42.1642122,0 40.8576,1.30661219 40.8576,2.9184 L40.8576,8.7552 C40.8576,10.3669878 42.1642122,11.6736 43.776,11.6736 Z" id="Path" fill="#FFB233"></path>
+                        <path d="M28.2112,11.6736 C29.8229878,11.6736 31.1296,10.3669878 31.1296,8.7552 L31.1296,2.9184 C31.1296,1.30661219 29.8229878,0 28.2112,0 C26.5994122,0 25.2928,1.30661219 25.2928,2.9184 L25.2928,8.7552 C25.2928,10.3669878 26.5994122,11.6736 28.2112,11.6736 Z" id="Path" fill="#FFB233"></path>
+                        <path d="M12.6464,11.6736 C14.2581878,11.6736 15.5648,10.3669878 15.5648,8.7552 L15.5648,2.9184 C15.5648,1.30661219 14.2581878,0 12.6464,0 C11.0346122,0 9.728,1.30661219 9.728,2.9184 L9.728,8.7552 C9.728,10.3669878 11.0346122,11.6736 12.6464,11.6736 Z" id="Path" fill="#FFB233"></path>
+                        <g id="Group" transform="translate(7.782400, 24.320000)" fill="#333E53" fill-rule="nonzero">
+                            <rect id="Rectangle" x="11.6736" y="0" width="5.8368" height="4.864" rx="0.9728"></rect>
+                            <rect id="Rectangle" x="0" y="0" width="5.8368" height="4.864" rx="0.9728"></rect>
+                            <rect id="Rectangle" x="35.0208" y="0" width="5.8368" height="4.864" rx="0.9728"></rect>
+                            <rect id="Rectangle" x="11.6736" y="8.7552" width="5.8368" height="4.864" rx="0.9728"></rect>
+                            <rect id="Rectangle" x="0" y="8.7552" width="5.8368" height="4.864" rx="0.9728"></rect>
+                            <rect id="Rectangle" x="11.6736" y="17.5104" width="5.8368" height="4.864" rx="0.9728"></rect>
+                            <rect id="Rectangle" x="23.3472" y="0" width="5.8368" height="4.864" rx="0.9728"></rect>
+                            <rect id="Rectangle" x="23.3472" y="8.7552" width="5.8368" height="4.864" rx="0.9728"></rect>
+                            <rect id="Rectangle" x="0" y="17.5104" width="5.8368" height="4.864" rx="0.9728"></rect>
+                        </g>
+                        <circle id="Oval" fill="#95C11F" cx="44.7488" cy="44.7488" r="11.6736"></circle>
+                        <path d="M50.3696384,40.6708224 L42.8032,48.2372608 L39.364352,44.79744 C38.9826458,44.4287758 38.3759047,44.4340483 38.0006629,44.8092901 C37.6254211,45.1845319 37.6201486,45.791273 37.9888128,46.1729792 L42.1154304,50.3005696 C42.4953087,50.6803331 43.1110913,50.6803331 43.4909696,50.3005696 L51.7451776,42.0463616 C52.1138418,41.6646554 52.1085693,41.0579143 51.7333275,40.6826725 C51.3580857,40.3074307 50.7513446,40.3021582 50.3696384,40.6708224 Z" id="Path" fill="#F1F2F2" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
